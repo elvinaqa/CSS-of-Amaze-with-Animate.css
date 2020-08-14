@@ -8,7 +8,8 @@ Animations are made with Pure CSS and no any JS code is included. All movements 
 
 ![200](https://user-images.githubusercontent.com/57037068/90244337-9c047600-de41-11ea-9c32-5191753345f8.gif)
 
-![Webp net-gifmaker](https://user-images.githubusercontent.com/57037068/87976299-f11cc880-cadd-11ea-85b1-98ac75c48899.gif)
+![Screenshot (270)](https://user-images.githubusercontent.com/57037068/90244764-73c94700-de42-11ea-837c-81c0ba9bd6a5.png)
+
 
 ![Screenshot (248)](https://user-images.githubusercontent.com/57037068/87976774-bbc4aa80-cade-11ea-8673-0d39de97b643.png)
 ![Screenshot (243)](https://user-images.githubusercontent.com/57037068/87976768-b9625080-cade-11ea-92f3-ab40f8883a9d.png)
@@ -20,3 +21,4 @@ Animations are made with Pure CSS and no any JS code is included. All movements 
 ![giphy](https://user-images.githubusercontent.com/57037068/87976558-5bce0400-cade-11ea-884f-de5f88a0851a.gif)
 
 ![giphy](https://user-images.githubusercontent.com/57037068/90188485-96b91400-ddcc-11ea-8ee8-e6af3a908161.gif)
+![Webp net-gifmaker](https://user-images.githubusercontent.com/57037068/87976299-f11cc880-cadd-11ea-85b1-98ac75c48899.gif)
