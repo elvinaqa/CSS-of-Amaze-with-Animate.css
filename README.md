@@ -6,8 +6,6 @@ Animations are made with Pure CSS and no any JS code is included. All movements 
 
 ![sp](https://user-images.githubusercontent.com/57037068/90162121-35317f00-dda5-11ea-8625-fdfef4d1e475.PNG)
 
-![200](https://user-images.githubusercontent.com/57037068/90244337-9c047600-de41-11ea-9c32-5191753345f8.gif)
-
 ![Screenshot (270)](https://user-images.githubusercontent.com/57037068/90244764-73c94700-de42-11ea-837c-81c0ba9bd6a5.png)
 
 
