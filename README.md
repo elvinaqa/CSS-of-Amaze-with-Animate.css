@@ -8,6 +8,8 @@ Animations are made with Pure CSS and no any JS code is included. All movements 
 
 ![Screenshot (270)](https://user-images.githubusercontent.com/57037068/90244764-73c94700-de42-11ea-837c-81c0ba9bd6a5.png)
 
+![image](https://user-images.githubusercontent.com/57037068/90258941-4ab4b080-de5a-11ea-80f8-392b754ebfe1.png)
+
 
 ![Screenshot (248)](https://user-images.githubusercontent.com/57037068/87976774-bbc4aa80-cade-11ea-8673-0d39de97b643.png)
 ![Screenshot (243)](https://user-images.githubusercontent.com/57037068/87976768-b9625080-cade-11ea-92f3-ab40f8883a9d.png)
