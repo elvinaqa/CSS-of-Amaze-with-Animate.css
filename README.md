@@ -7,6 +7,7 @@ Animations are made with Pure CSS and no any JS code is included. All movements 
 ![sp](https://user-images.githubusercontent.com/57037068/90162121-35317f00-dda5-11ea-8625-fdfef4d1e475.PNG)
 
 ![Screenshot (270)](https://user-images.githubusercontent.com/57037068/90244764-73c94700-de42-11ea-837c-81c0ba9bd6a5.png)
+![Screenshot (286)](https://user-images.githubusercontent.com/57037068/90342472-a4170e00-e019-11ea-960d-e5dd2d118c2f.png)
 
 ![image](https://user-images.githubusercontent.com/57037068/90258941-4ab4b080-de5a-11ea-80f8-392b754ebfe1.png)
 
