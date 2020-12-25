@@ -11,7 +11,7 @@ Include:
   Tilt.js
   
 ## Features
-
+- 3D objects in WEB
 - Animated with pure CSS
 - Product Cards
 - Bluing checkbox
