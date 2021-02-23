@@ -53,7 +53,7 @@ For direct contributions, please fork the repository and file a pull request. If
 ![Screenshot (245)](https://user-images.githubusercontent.com/57037068/87976755-b49d9c80-cade-11ea-8427-dd01b8ba4f21.png)
 ![Screenshot (247)](https://user-images.githubusercontent.com/57037068/87976746-ae0f2500-cade-11ea-9768-74384fe6c4fd.png)
 ![Screenshot (246)](https://user-images.githubusercontent.com/57037068/87976751-b1a2ac00-cade-11ea-82ad-ce6ef33f6c28.png)
-
+![Screenshot (246)](https://github.com/elvinaqa/CSS-of-Amaze-with-Animate.css/blob/master/particles-write-text/particles-write-text/Screenshot%20(434).png)
 ![giphy](https://user-images.githubusercontent.com/57037068/87976558-5bce0400-cade-11ea-884f-de5f88a0851a.gif)
 
 ![giphy](https://user-images.githubusercontent.com/57037068/90188485-96b91400-ddcc-11ea-8ee8-e6af3a908161.gif)
